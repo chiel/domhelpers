@@ -25,7 +25,7 @@ console.log(getClosest(el2, '.el2')); // div.el2
 ## getParent(element, selector)
 
 Get the closest element from `element` which matches `selector`. This does NOT
-include yhe `element` itself, instead it searches from the `element`'s parentNode.
+include the `element` itself, instead it searches from the `element`'s parentNode.
 
 ```html
 <div class="el1">
