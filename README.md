@@ -7,7 +7,7 @@ help you query the DOM.
 ## Usage
 
 At the moment, the only way to install DOMhelpers is through npm, which means
-you'll have to use a tool like `[browserify][browserify]` in order to include it
+you'll have to use a tool like [browserify][browserify] in order to include it
 in your code.
 
 ```bash
