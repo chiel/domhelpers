@@ -36,8 +36,8 @@ Full docs for the individual methods can be found in the next section
 
 ### getClosest(element, selector)
 
-Get the closest element from `element` which matches `selector`. This includes
-the `element` itself.
+Get the closest parent from `element` which matches `selector` or `element`
+itself if it matches the selector.
 
 ```html
 <div class="el1">
